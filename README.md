@@ -66,6 +66,14 @@ Therefore, it was selected as the best-performing model for this dataset.
 The project includes a scatter plot of Actual vs Predicted house prices.  
 Points closer to the diagonal line indicate better prediction accuracy.
 
+## 📊 Model Evaluation
+
+![Model Comparison](images/Model Evaluation and Comparison.png)
+
+## 📈 Visual Performance Validation
+
+![Prediction Plot](images/Visual Performance Validation.png)
+
 ## 🛠 Technologies Used
 
 - Python
